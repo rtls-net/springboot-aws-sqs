@@ -1,4 +1,4 @@
-package com.javatechie.aws.sqs;
+package com.eapps.aws.sqs;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
